@@ -1,0 +1,8 @@
+this is a git file .
+test for git function.
+
+when 10clock's I edit it again.
+and test this edit function.and
+
+when 10:12 I edit it again.
+and i test this edit funcion.
